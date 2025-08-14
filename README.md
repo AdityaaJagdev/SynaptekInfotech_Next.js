@@ -1,0 +1,1 @@
+# SynaptekInfotech_Next.js
